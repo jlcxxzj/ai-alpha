@@ -1,4 +1,5 @@
 # Alpha Research with AI
+# 量化交易
 ## Project Description
 Please refer to the medium post: 
 * [How to Build Quant Algorithmic Trading Model in Python](https://yuki678.medium.com/how-to-build-quant-algorithmic-trading-model-in-python-12abab49abe3?sk=56d5b2b038ce6aefa6c2049cff9e89b6)
