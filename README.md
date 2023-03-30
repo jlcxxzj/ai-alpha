@@ -1,4 +1,4 @@
-# Alpha Research with AI
+# Alpha Research with AI 量化交易
 # 量化交易
 ## Project Description
 Please refer to the medium post: 
